@@ -1,0 +1,37 @@
+.navegation a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact{
+    position: fixed;
+    right: 0;
+    margin-right: 15px;
+}
+
+.contact a{
+    margin-left: 10px;
+}
+
+.navegation a:hover{
+    background-color: #03045E;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    height: 80px;
+    width: 100%;
+    background-color: #0077B6;
+    align-items: center;
+    justify-content: center;
+}
+
+header img{
+    height: 20px;
+    width: 20px;
+}
