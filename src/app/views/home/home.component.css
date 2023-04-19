@@ -1,0 +1,7 @@
+app-main-photo {
+    float: left;
+}
+app-main-photo, app-about-me{
+    display: flex;
+    justify-content: center;
+}
