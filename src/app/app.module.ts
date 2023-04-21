@@ -11,6 +11,7 @@ import { ExperienceComponent } from './views/experience/experience.component';
 import { SkillsComponent } from './views/skills/skills.component';
 import { MainPhotoComponent } from './components/home/main-photo/main-photo.component';
 import { AboutMeComponent } from './components/home/about-me/about-me.component';
+import { ProjectsContentComponent } from './components/projects/projects-content/projects-content.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { AboutMeComponent } from './components/home/about-me/about-me.component'
     SkillsComponent,
     MainPhotoComponent,
     AboutMeComponent,
+    ProjectsContentComponent,
   ],
   imports: [
     BrowserModule,
