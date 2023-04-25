@@ -1,0 +1,32 @@
+.softskills{
+    display: table;
+    height: 300px;
+    background-color: #e0f6fa;
+    width: 300px;
+    text-align: center;
+}
+.hardskills{
+    display: table;
+    height: 300px;
+    background-color: #e0f6fa;
+    width: 300px;
+    text-align: center;
+}
+table{
+    border: 1px solid #03045E;
+}
+.hardskills tr{
+    height: 50px;
+}
+
+table th {
+    border-bottom: 1px solid #03045E;
+}
+div{
+    height: calc(100vh - 150px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;    
+}
+
+
