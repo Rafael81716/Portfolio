@@ -26,7 +26,10 @@ div{
     height: calc(100vh - 150px);
     display: flex;
     justify-content: space-evenly;
-    align-items: center;    
+    margin-top: 70px;
+}
+h1{
+    text-align: center;
 }
 
 
